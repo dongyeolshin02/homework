@@ -8,4 +8,8 @@ export default defineConfig({
      react(),
      tailwindcss(),
   ],
+  sever :{
+    open : true,
+    port:4000
+  }
 })
