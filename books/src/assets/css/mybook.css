@@ -1,0 +1,12 @@
+
+
+.my-list{
+    height: 100px;
+    margin-top: 5vh;
+}
+
+.borrow-list{
+    height: 100%;
+    background-color: #f9f8f8;
+    border-radius: 10px;
+}

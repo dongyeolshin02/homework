@@ -1,0 +1,12 @@
+
+
+.book-list{
+    height: 400px;
+    margin-top: 7vh;
+}
+
+.item-list{
+    height: 100%;
+    background-color: #f9f8f8;
+    border-radius: 10px;
+}

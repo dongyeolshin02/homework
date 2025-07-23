@@ -1,0 +1,14 @@
+
+.header{
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #f9f8f8;
+    column-gap: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+.select{
+    width: 200px;
+}
